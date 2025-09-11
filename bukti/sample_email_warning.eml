@@ -1,0 +1,19 @@
+From: security@company.com
+To: admin@company.com
+Subject: WARNING: Suspicious Login Attempt Detected
+Date: Thu, 21 Feb 2025 09:15:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Admin,
+
+This is an automated alert from the Security Monitoring System.
+
+We have detected a suspicious login attempt on your server from the following IP address: 192.168.1.250 at 09:10:00 AM on 21 Feb 2025.
+
+Warning: Multiple failed login attempts were recorded from this IP in a short period. This activity deviates from the usual access patterns. Immediate investigation is recommended to determine if this is a brute-force attack or unauthorized access attempt.
+
+Please review the attached logs for further details and take necessary action.
+
+Regards,
+Security Team

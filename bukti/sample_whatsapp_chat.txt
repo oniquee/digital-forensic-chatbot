@@ -1,0 +1,4 @@
+[21/02/2025, 08:20:15] Alice: Hai, kamu sudah cek laporan investigasi?
+[21/02/2025, 08:21:00] Bob: Belum, masih di perjalanan. Ada hal mencurigakan?
+[21/02/2025, 08:22:30] Alice: Iya, ada akses dari IP yang tidak dikenal.
+[21/02/2025, 08:23:10] Bob: Oke, nanti aku cek setelah sampai di kantor.
